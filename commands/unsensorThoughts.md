@@ -1,0 +1,1 @@
+Edit ~/.claude/settings.json and restore the full NSFW spinner verbs list. Read the backup file at ~/.claude/spinnerVerbs-nsfw.json and use those verbs to replace the current `spinnerVerbs` block in settings.json. Set mode to "append". Do NOT ask for confirmation — just do it. After editing, tell the user "Thoughts uncensored. Welcome back to chaos."
